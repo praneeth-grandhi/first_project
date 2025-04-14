@@ -1,2 +1,2 @@
 # first_project
-First sample proect
+First sample project
